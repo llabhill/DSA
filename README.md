@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/llabhill/DSA/tree/master/0229-majority-element-ii) |
 | [1006-vowel-spellchecker](https://github.com/llabhill/DSA/tree/master/1006-vowel-spellchecker) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/llabhill/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2429-design-a-food-rating-system](https://github.com/llabhill/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/llabhill/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Hash Table
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/llabhill/DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/llabhill/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/llabhill/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2429-design-a-food-rating-system](https://github.com/llabhill/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/llabhill/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Sorting
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/llabhill/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/llabhill/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/llabhill/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2429-design-a-food-rating-system](https://github.com/llabhill/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Stack
 |  |
 | ------- |
@@ -72,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/llabhill/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
+## Design
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/llabhill/DSA/tree/master/2429-design-a-food-rating-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/llabhill/DSA/tree/master/2429-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/llabhill/DSA/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
