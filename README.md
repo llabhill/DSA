@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/llabhill/DSA/tree/master/0229-majority-element-ii) |
 | [1006-vowel-spellchecker](https://github.com/llabhill/DSA/tree/master/1006-vowel-spellchecker) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/llabhill/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/llabhill/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/llabhill/DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/llabhill/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/llabhill/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/llabhill/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/llabhill/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2626-count-the-number-of-good-subarrays](https://github.com/llabhill/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 <!---LeetCode Topics End-->
