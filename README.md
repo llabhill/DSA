@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/llabhill/DSA/tree/master/0229-majority-element-ii) |
+| [0472-concatenated-words](https://github.com/llabhill/DSA/tree/master/0472-concatenated-words) |
 | [0525-contiguous-array](https://github.com/llabhill/DSA/tree/master/0525-contiguous-array) |
 | [1006-vowel-spellchecker](https://github.com/llabhill/DSA/tree/master/1006-vowel-spellchecker) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/llabhill/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/llabhill/DSA/tree/master/0229-majority-element-ii) |
+| [0472-concatenated-words](https://github.com/llabhill/DSA/tree/master/0472-concatenated-words) |
 ## Counting
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/llabhill/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0472-concatenated-words](https://github.com/llabhill/DSA/tree/master/0472-concatenated-words) |
 | [1006-vowel-spellchecker](https://github.com/llabhill/DSA/tree/master/1006-vowel-spellchecker) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/llabhill/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/llabhill/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -105,4 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3827-implement-router](https://github.com/llabhill/DSA/tree/master/3827-implement-router) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/llabhill/DSA/tree/master/0472-concatenated-words) |
+## Depth-First Search
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/llabhill/DSA/tree/master/0472-concatenated-words) |
+## Trie
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/llabhill/DSA/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
