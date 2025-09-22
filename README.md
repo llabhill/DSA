@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/llabhill/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/llabhill/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/llabhill/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/llabhill/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3827-implement-router](https://github.com/llabhill/DSA/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/llabhill/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2429-design-a-food-rating-system](https://github.com/llabhill/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/llabhill/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/llabhill/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3827-implement-router](https://github.com/llabhill/DSA/tree/master/3827-implement-router) |
 ## Sorting
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/llabhill/DSA/tree/master/0229-majority-element-ii) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/llabhill/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
