@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/llabhill/DSA/tree/master/0048-rotate-image) |
 | [0179-largest-number](https://github.com/llabhill/DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/llabhill/DSA/tree/master/0229-majority-element-ii) |
 | [0472-concatenated-words](https://github.com/llabhill/DSA/tree/master/0472-concatenated-words) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/llabhill/DSA/tree/master/0048-rotate-image) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/llabhill/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/llabhill/DSA/tree/master/0165-compare-version-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/llabhill/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
