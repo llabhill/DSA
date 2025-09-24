@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/llabhill/DSA/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/llabhill/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0179-largest-number](https://github.com/llabhill/DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/llabhill/DSA/tree/master/0229-majority-element-ii) |
 | [0472-concatenated-words](https://github.com/llabhill/DSA/tree/master/0472-concatenated-words) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/llabhill/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/llabhill/DSA/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/llabhill/DSA/tree/master/0525-contiguous-array) |
 | [1006-vowel-spellchecker](https://github.com/llabhill/DSA/tree/master/1006-vowel-spellchecker) |
@@ -138,4 +140,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/llabhill/DSA/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/llabhill/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
