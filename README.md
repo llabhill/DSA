@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/llabhill/DSA/tree/master/0229-majority-element-ii) |
 | [0472-concatenated-words](https://github.com/llabhill/DSA/tree/master/0472-concatenated-words) |
 | [0525-contiguous-array](https://github.com/llabhill/DSA/tree/master/0525-contiguous-array) |
+| [0611-valid-triangle-number](https://github.com/llabhill/DSA/tree/master/0611-valid-triangle-number) |
 | [1006-vowel-spellchecker](https://github.com/llabhill/DSA/tree/master/1006-vowel-spellchecker) |
 | [2047-find-a-peak-element-ii](https://github.com/llabhill/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/llabhill/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/llabhill/DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/llabhill/DSA/tree/master/0229-majority-element-ii) |
 | [0472-concatenated-words](https://github.com/llabhill/DSA/tree/master/0472-concatenated-words) |
+| [0611-valid-triangle-number](https://github.com/llabhill/DSA/tree/master/0611-valid-triangle-number) |
 ## Counting
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/llabhill/DSA/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/llabhill/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0611-valid-triangle-number](https://github.com/llabhill/DSA/tree/master/0611-valid-triangle-number) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/llabhill/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/llabhill/DSA/tree/master/0611-valid-triangle-number) |
 | [2047-find-a-peak-element-ii](https://github.com/llabhill/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [3827-implement-router](https://github.com/llabhill/DSA/tree/master/3827-implement-router) |
 ## Queue
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/llabhill/DSA/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/llabhill/DSA/tree/master/0611-valid-triangle-number) |
 ## Matrix
 |  |
 | ------- |
