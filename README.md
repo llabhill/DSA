@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/llabhill/DSA/tree/master/0472-concatenated-words) |
 | [0525-contiguous-array](https://github.com/llabhill/DSA/tree/master/0525-contiguous-array) |
 | [0611-valid-triangle-number](https://github.com/llabhill/DSA/tree/master/0611-valid-triangle-number) |
+| [0830-largest-triangle-area](https://github.com/llabhill/DSA/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/llabhill/DSA/tree/master/1006-vowel-spellchecker) |
 | [2047-find-a-peak-element-ii](https://github.com/llabhill/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/llabhill/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/llabhill/DSA/tree/master/0048-rotate-image) |
 | [0166-fraction-to-recurring-decimal](https://github.com/llabhill/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0830-largest-triangle-area](https://github.com/llabhill/DSA/tree/master/0830-largest-triangle-area) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/llabhill/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/llabhill/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/llabhill/DSA/tree/master/0073-set-matrix-zeroes) |
 | [2047-find-a-peak-element-ii](https://github.com/llabhill/DSA/tree/master/2047-find-a-peak-element-ii) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/llabhill/DSA/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
