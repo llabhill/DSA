@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/llabhill/DSA/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/llabhill/DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/llabhill/DSA/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/llabhill/DSA/tree/master/0239-sliding-window-maximum) |
 | [0472-concatenated-words](https://github.com/llabhill/DSA/tree/master/0472-concatenated-words) |
 | [0525-contiguous-array](https://github.com/llabhill/DSA/tree/master/0525-contiguous-array) |
 | [0611-valid-triangle-number](https://github.com/llabhill/DSA/tree/master/0611-valid-triangle-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/llabhill/DSA/tree/master/0239-sliding-window-maximum) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/llabhill/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Design
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/llabhill/DSA/tree/master/0239-sliding-window-maximum) |
 | [2429-design-a-food-rating-system](https://github.com/llabhill/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Ordered Set
 |  |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/llabhill/DSA/tree/master/0239-sliding-window-maximum) |
 | [3827-implement-router](https://github.com/llabhill/DSA/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
@@ -183,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/llabhill/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/llabhill/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
