@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/llabhill/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/llabhill/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2429-design-a-food-rating-system](https://github.com/llabhill/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3636-check-balanced-string](https://github.com/llabhill/DSA/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
