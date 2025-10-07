@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/llabhill/DSA/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/llabhill/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/llabhill/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1612-avoid-flood-in-the-city](https://github.com/llabhill/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2047-find-a-peak-element-ii](https://github.com/llabhill/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/llabhill/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/llabhill/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/llabhill/DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/llabhill/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/llabhill/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1612-avoid-flood-in-the-city](https://github.com/llabhill/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2429-design-a-food-rating-system](https://github.com/llabhill/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/llabhill/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/llabhill/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/llabhill/DSA/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/llabhill/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/llabhill/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1612-avoid-flood-in-the-city](https://github.com/llabhill/DSA/tree/master/1612-avoid-flood-in-the-city) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/llabhill/DSA/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/llabhill/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/llabhill/DSA/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/llabhill/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2429-design-a-food-rating-system](https://github.com/llabhill/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Ordered Set
 |  |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/llabhill/DSA/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/llabhill/DSA/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/llabhill/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2047-find-a-peak-element-ii](https://github.com/llabhill/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [3827-implement-router](https://github.com/llabhill/DSA/tree/master/3827-implement-router) |
 ## Queue
