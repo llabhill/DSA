@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/llabhill/DSA/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/llabhill/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0417-pacific-atlantic-water-flow](https://github.com/llabhill/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0437-path-sum-iii](https://github.com/llabhill/DSA/tree/master/0437-path-sum-iii) |
 | [0472-concatenated-words](https://github.com/llabhill/DSA/tree/master/0472-concatenated-words) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/llabhill/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/llabhill/DSA/tree/master/0794-swim-in-rising-water) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/llabhill/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/llabhill/DSA/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/llabhill/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0437-path-sum-iii](https://github.com/llabhill/DSA/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/llabhill/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/llabhill/DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/llabhill/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/llabhill/DSA/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/llabhill/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0437-path-sum-iii](https://github.com/llabhill/DSA/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/llabhill/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/llabhill/DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Union Find
