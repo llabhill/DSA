@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/llabhill/DSA/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/llabhill/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/llabhill/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/llabhill/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/llabhill/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2047-find-a-peak-element-ii](https://github.com/llabhill/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/llabhill/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/llabhill/DSA/tree/master/0525-contiguous-array) |
 | [1006-vowel-spellchecker](https://github.com/llabhill/DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/llabhill/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/llabhill/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/llabhill/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/llabhill/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2429-design-a-food-rating-system](https://github.com/llabhill/DSA/tree/master/2429-design-a-food-rating-system) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/llabhill/DSA/tree/master/0472-concatenated-words) |
 | [0611-valid-triangle-number](https://github.com/llabhill/DSA/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/llabhill/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/llabhill/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/llabhill/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/llabhill/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Counting
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/llabhill/DSA/tree/master/1006-vowel-spellchecker) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/llabhill/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/llabhill/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/llabhill/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/llabhill/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2429-design-a-food-rating-system](https://github.com/llabhill/DSA/tree/master/2429-design-a-food-rating-system) |
 | [3636-check-balanced-string](https://github.com/llabhill/DSA/tree/master/3636-check-balanced-string) |
